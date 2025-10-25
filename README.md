@@ -1,5 +1,5 @@
 ### 基于Phaser的小游戏集
-这是一个基于Phaser的小游戏集，目的是方便大家学习Phaser。大家也可以访问Phaser小站的官方网站：[http://www.phaser-china.com/](http://www.phaser-china.com) 
+我是帅哥这是一个基于Phaser的小游戏集，目的是方便大家学习Phaser。大家也可以访问Phaser小站的官方网站：[http://www.phaser-china.com/](http://www.phaser-china.com) 
 
 ### 源码
 每一个游戏的源码都在对应的文件夹中，如 fruit - 切水果 ，源码在fruit文件夹中
